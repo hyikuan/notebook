@@ -21,4 +21,6 @@ README.md 是一个关于本项目信息的文件
 * 当你pull request，你提交自己的文件，并且要求别人查看并且合并到他们自己的branch。Pull requests可以以不同的颜色展示各个分支不同的地方。
 * 也可以自己打开一个新的brunch并且merge到自己的项目中
 
+## Other tricks
 
+* 如果要在仓库里新建文件夹，只需在新建文件时不添加后缀
