@@ -18,5 +18,7 @@ README.md 是一个关于本项目信息的文件
 ## Step 4. Open a pull request
 
 * Pull request是本平台协作的核心。
-* 当你pull request，你提交自己的文件，并且要求别人查看并且合并到他们自己的branch。Pull requests可以展示
-* When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+* 当你pull request，你提交自己的文件，并且要求别人查看并且合并到他们自己的branch。Pull requests可以以不同的颜色展示各个分支不同的地方。
+* 也可以自己打开一个新的brunch并且merge到自己的项目中
+
+
